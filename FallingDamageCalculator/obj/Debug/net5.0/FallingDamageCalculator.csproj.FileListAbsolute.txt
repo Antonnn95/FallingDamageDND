@@ -1,0 +1,16 @@
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\FallingDamageCalculator.exe
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\FallingDamageCalculator.deps.json
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\FallingDamageCalculator.runtimeconfig.json
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\FallingDamageCalculator.runtimeconfig.dev.json
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\FallingDamageCalculator.dll
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\ref\FallingDamageCalculator.dll
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\bin\Debug\net5.0\FallingDamageCalculator.pdb
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.AssemblyInfo.cs
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.dll
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\ref\FallingDamageCalculator.dll
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.pdb
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.genruntimeconfig.cache
+C:\Users\Anton\Desktop\DND\FallingDamageCalculator\FallingDamageCalculator\obj\Debug\net5.0\FallingDamageCalculator.csproj.AssemblyReference.cache

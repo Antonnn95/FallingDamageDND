@@ -1,0 +1,5 @@
+C:\Users\Anton\Desktop\FallingDamageCalculator.exe
+C:\Users\Anton\Desktop\FallingDamageCalculator.dll
+C:\Users\Anton\Desktop\FallingDamageCalculator.deps.json
+C:\Users\Anton\Desktop\FallingDamageCalculator.runtimeconfig.json
+C:\Users\Anton\Desktop\FallingDamageCalculator.pdb
